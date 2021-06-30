@@ -3,8 +3,8 @@ const CONFIG = {
     introDesc: `
 
 
-Nhân gian vốn lắm bộn bề
-Sao không bỏ hết để về bên nhau
+Nhân gian vốn lắm bộn bề ,
+sao không bỏ hết để về bên nhau
 
 `,
     btnIntro: 'hihi',
