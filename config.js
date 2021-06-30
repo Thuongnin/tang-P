@@ -8,7 +8,7 @@ sao không bỏ hết để về bên nhau
 
 `,
     btnIntro: 'hihi',
-    title: ' phải chăng t đã chìm trong cơn say m mà không lối thoát.',
+    title: ' phải chăng T đã chìm trong cơn say Phương mà không lối thoát.',
     desc: ' Liệu rằng men say này đã khiến Phương say T',
     btnYes: 'Đã chìm mãi vào cơn say<33',
     btnNo: 'Tỉnh rồi:3',
